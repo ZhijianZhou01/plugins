@@ -1,4 +1,4 @@
-# plugins
+# Introduction
 This is the copy of binary file collected, including mafft, muscle, clustal and fasttree softwares. Thanks to development teams of these classic softwares.
 
 Mafft 7 (https://doi.org/10.1093/molbev/mst010): a great multiple sequence alignment software.
